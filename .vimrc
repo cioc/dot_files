@@ -1,3 +1,4 @@
+
 set number
 set smartindent
 set tabstop=2
@@ -8,5 +9,6 @@ map <C-j> <C-w><Down>
 map <C-l> <C-w><Right>
 map <C-h> <C-w><Left>
 
+:syntax on
 :autocmd FileType make set noexpandtab
 
