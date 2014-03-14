@@ -5,6 +5,7 @@ apt-get -y install curl
 apt-get -y install git
 apt-get -y install g++
 apt-get -y install unzip
+apt-get -y install bzr
 
 #scheme
 apt-get -y install mit-scheme
